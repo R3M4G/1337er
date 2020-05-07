@@ -20,5 +20,5 @@ print (bold(red('''
 # Main
 kinput = input('Text to Convert into 1337:')
 my_string = kinput
-name = kinput.replace('a', '4').replace('h', '#').replace('e', '3').replace('i', '!').replace('l', '1').replace('t', '7').replace('s', '5').replace('o', '0')
+name = kinput.replace('a', '4').replace('b', '8').replace('z', '2').replace('e', '3').replace('g', '6').replace('l', '1').replace('t', '7').replace('s', '5').replace('o', '0')
 print (bold(green(name)))
